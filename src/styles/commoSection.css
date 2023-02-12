@@ -1,0 +1,14 @@
+.common_section{
+    background: linear-gradient(#000,rgba(0, 0, 0, 0.164)),url('../assets/images/car1.jpg') 
+    no-repeat center center;
+    background-size: cover;
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.common_section h1{
+    color:#fff;
+    font-weight: 600;
+}

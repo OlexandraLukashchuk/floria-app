@@ -1,0 +1,12 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+
+.footer_copyright{
+    color: rgba(255, 255, 255, 0.735);
+    font-size: 0.9rem;
+    margin-top: 30px;
+    text-align: center;
+}
